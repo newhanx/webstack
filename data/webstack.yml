@@ -8,14 +8,14 @@
       url: https://bioitee.com
       qrcode: assets/images/logos/qrcode.jpg
       description: BioIT 爱好者！
-    - title: 语雀
-      logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
+    - title: chatGPT
+      logo: chatGPT.png
+      url: https://chat.openai.com/
+      description: 热门AI在线回复工具。
+    - title: 文心一言
+      logo: 文心一言.png
+      url: https://yiyan.baidu.com/welcome
+      description: 国内AI平台。
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
