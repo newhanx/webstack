@@ -16,14 +16,14 @@
       logo: 文心一言.png
       url: https://yiyan.baidu.com/welcome
       description: 国内AI平台。
-    - title: 开源中国
+    - title: 谷哥Gemini
       logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
+      url: https://ai.google.dev/
+      description: 谷哥AI模型。
+    - title: Claude
       logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
+      url: https://www.anthropic.com/
+      description: GPT的最强对手。
     - title: CODING
       logo: coding.png
       url: https://shenweiyan.coding.net/user/projects
