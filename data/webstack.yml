@@ -134,14 +134,14 @@
   list:
     - term: 影音视频
       links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
+        - title: Heygen
+          logo: heygen.png
+          url: https://www.heygen.com/
+          description: 超简单，3分钟制作视频。
+        - title: Fliki
+          logo: fliki.png
+          url: https://fliki.ai/
+          description: 高效帮用户创作视频。
         - title: 爱奇艺
           logo: 爱奇艺.png
           url: https://www.iqiyi.com/
