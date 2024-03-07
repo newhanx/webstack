@@ -63,10 +63,10 @@
           logo: ncbi.jpg
           url: https://shop.app/
           description: AI-Powered Shopping Assistant.
-        - title: Bioconda
+        - title: P.AI
           logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
+          url: https://www.perplexity.ai/
+          description: "AI问答搜索引擎."
         - title: CPAN
           logo: cpan.jpg
           url: https://metacpan.org/
