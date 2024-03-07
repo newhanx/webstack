@@ -166,16 +166,16 @@
           logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载。
-    - term: 游戏竞技
+    - term: 游戏网赚
       links:
-        - title: 百度贴吧
+        - title: 2captcha
           logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
+          url: https://2captcha.com/cabinet
+          description: 打验证码。
+        - title: earnapp
           logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+          url: https://earnapp.com/
+          description: 挂机赚钱。
    
       
 - taxonomy: 素材资源
