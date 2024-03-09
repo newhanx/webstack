@@ -28,10 +28,10 @@
       logo: coding.png
       url: https://poe.com/
       description: an AI-powered platform。
-    - title: GitHub
+    - title: 讯飞星火
       logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区。
+      url: https://xinghuo.xfyun.cn/
+      description: 讯飞星火大模型 。
     - title: Md2X 定制版
       logo: mdx.png
       url: https://mdx.ncbix.com/
@@ -111,14 +111,14 @@
           description: 云桌面,一站式云电脑服务平台。
     - term: 办公学习
       links:
-        - title: 有道词典
+        - title: AI创作家
           logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
+          url: https://ai.chiyingapp.com/
+          description: AI创作工具。
+        - title: 秘塔写作猫
           logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
+          url: https://xiezuocat.com/
+          description: AI写作助手。
         - title: 谷歌翻译
           logo: 谷歌翻译.jpg
           url: https://translate.google.cn/
