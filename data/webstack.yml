@@ -60,7 +60,10 @@
       logo: v2ex.jpg
       url: https://kimi.moonshot.cn/
       description: kimi智能助手
-
+    - title: 通义官网
+      logo: 知乎.png
+      url: https://tongyi.aliyun.com/
+      description: 通义官网。
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
