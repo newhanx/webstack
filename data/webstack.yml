@@ -64,6 +64,10 @@
       logo: 知乎.png
       url: https://tongyi.aliyun.com/
       description: 通义官网。
+    - title: deepseek
+      logo: biotech-280.png
+      url: https://www.deepseek.com/
+      description: deepseek 深度求索。
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
