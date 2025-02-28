@@ -68,6 +68,10 @@
       logo: biotech-280.png
       url: https://www.deepseek.com/
       description: deepseek 深度求索。
+    - title: klingai
+      logo: 搜狗微信.jpg  
+      url: https://klingai.kuaishou.com/
+      description: 可灵AI 新一代创意生产力平台。
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
